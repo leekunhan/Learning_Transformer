@@ -18,4 +18,4 @@
 
 通過這樣的注意力機制，模型可以更高效地處理大量的數據，並在諸多應用中取得傑出的表現。
 
-如果你對整個Transform架構有興趣，可以看看[transformer_in_pytorch](./transformer_in_pytorch.ipynb)這個檔案，裡面有完整的Transform架構Source Code 由 Pytorch架構構成。
+如果你對整個Transform架構有興趣，可以看看[transformer_in_pytorch](./transformer_in_pytorch.ipynb)這個檔案，裡面有由pytorch架構構成的完整Transformer架構Source Code.
