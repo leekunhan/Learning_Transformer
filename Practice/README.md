@@ -17,3 +17,5 @@
 在 Transformer 架構中，查詢、鍵和值向量幫助模型專注於輸入序列中最相關的部分，比如一句話或一段文字，忽略不重要的部分。這使得模型能更好地理解輸入的意圖，並生成更準確的輸出，比如翻譯或摘要。
 
 通過這樣的注意力機制，模型可以更高效地處理大量的數據，並在諸多應用中取得傑出的表現。
+
+如果你對整個Transform架構有興趣，可以看看[transformer_in_pytorch](./transformer_in_pytorch.ipynb)這個檔案，裡面有完整的Transform架構Source Code 由 Pytorch架構構成。
