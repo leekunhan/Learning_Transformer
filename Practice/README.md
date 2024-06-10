@@ -18,4 +18,21 @@
 
 通過這樣的注意力機制，模型可以更高效地處理大量的數據，並在諸多應用中取得傑出的表現。
 
+
+## 說明
+在檔案[dot_product_qkv.ipynb](./dot_product_qkv.ipynb)中，我們希望實現Scaled Dot-Product Attention的機制來更了解模型比較注重文字中哪一個字，其中
+- Query 是當前我們關注的詞語，用來查找相關信息
+- Key 是我們用來計算與Query相關性的詞語
+- Value 是我們根據注意力權重加權求和後生成最終輸出的詞語
+
+### 為什麼 Key 和 Value 設成一樣的值
+在自注意力機制（Self-Attention）中，Query、Key 和 Value 通常都來自同一個sequence（句子）。這樣的設計使得模型能夠在同一個句子內找到詞語之間的相關性。
+
+由於我們這裡沒有進行模型訓練，因此我們將 Key 和 Value 設成一樣的值。這樣做的好處是：
+
+1. 簡化了實驗設置，便於理解和實現注意力機制的基本原理。
+2. 可以直接觀察詞語之間的關聯性，而不需要訓練過程來調整權重。
+
+我們會在最後透過可視化的結果查看各個權重結果，並在檔案最後進行說明。
+
 如果你對整個Transform架構有興趣，可以看看[transformer_in_pytorch](./transformer_in_pytorch.ipynb)這個檔案，裡面有由pytorch架構構成的完整Transformer架構Source Code.

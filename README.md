@@ -43,3 +43,4 @@ In these two weeks, you have two tasks to complete:
 - Arxiv - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
 - Arxiv - [End-to-End Object Detection with Transformers](https://arxiv.org/abs/2005.12872)
 - Medium - [Transformer alternatives in 2024](https://medium.com/nebius/transformer-alternatives-in-2024-06cd3d91d42b)  
+- Huggingface - [Transformers-based Encoder-Decoder Models](https://huggingface.co/blog/encoder-decoder)
