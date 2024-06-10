@@ -23,7 +23,7 @@ In these two weeks, you have two tasks to complete:
 - [ ] Read the paper and make report - [attention is all you need](https://arxiv.org/abs/1706.03762)
   - [ ] put all reference you look, at the end of report page.
 2. Complete the practice part by coding to familiarize yourself with how attention works.
-- [ ] Finish the [pratice](./Practice/README.md) section.
+- [ ] Finish dot_product_qkv.ipynb file list in [pratice](./Practice/README.md) section.
 
 ### Reference Source
 > NOTE : The order below does not indicate the importance   
