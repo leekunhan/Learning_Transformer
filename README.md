@@ -33,6 +33,7 @@ In these two weeks, you have two tasks to complete:
 - Youtube - [Word2Vec](https://www.youtube.com/watch?v=j9YNHnCRkig)
 - Youtube - [機器學習2021 影片10 ~ 13 ](https://youtube.com/playlist?list=PLJV_el3uVTsMhtt7_Y6sgTHGHp1Vb2P2J&si=Wa9VQkEq22ttKPyJ)by Hung-yi Lee
 - Youtube - [Coding a Transformer from scratch on PyTorch, with full explanation, training and inference.](https://www.youtube.com/watch?v=ISNdQcPhsts&t=9595s)
+- Youtube - [Attention in transformers, visually explained](https://www.youtube.com/watch?v=eMlx5fFNoYc)
 - Arxiv - [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
 - Arxiv - [Understanding LSTM -- a tutorial into Long Short-Term Memory Recurrent Neural Networks](https://arxiv.org/abs/1909.09586)
 
